@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ma Songqi（马松琦）"
-  avatar           : "pic1.png"
-  bio              : "Your biography for the left-hand sideba"
+  avatar           : "../images/pic1.png"
+  bio              : "If thou wilt, remember, and if thou wilt, forget."
   location         : "Haidian District Beijing CHN"
   employer         :
   pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
