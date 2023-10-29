@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ma Songqi（马松琦）"
 title_separator          : "-"
 name                     : &name "Ma Songqi"
 description              : &description "personal description"
@@ -83,11 +83,11 @@ author:
   name             : "Ma Songqi（马松琦）"
   avatar           : "pic1.png"
   bio              : "Your biography for the left-hand sideba"
-  location         : "Haidian District, Beijing, CHN"
+  location         : "Haidian District Beijing CHN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :# "http://yourfullgooglescholarurl.com"
+  email            : "songqima@foxmail.com" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/MMMSSQQQ"
   google_plus      :
   keybase          :
   instagram        :
